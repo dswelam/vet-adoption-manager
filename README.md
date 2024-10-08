@@ -1,8 +1,5 @@
-Here's a similar description for **PackAdoption**, following the style and format of your **WolfScheduler** description:
-
----
-
 ### **PackAdoption - Animal Rescue and Adoption Management System**
+---
 
 **PackAdoption** is a Java-based application designed to manage the adoption process for rescued animals. Built with **Java OOP** principles and a **Swing-based GUI**, it provides a comprehensive system for tracking animals, rescue history, and managing the adoption queue. The system ensures a smooth and organized workflow for animal adoption centers.
 
