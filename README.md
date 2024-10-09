@@ -31,4 +31,5 @@
 - Implement real-time synchronization with online animal adoption platforms.
 - Add more sophisticated queue management features (e.g., priority based on medical needs).
 - Improve the GUI by incorporating modern design principles.
-- 
+
+  
